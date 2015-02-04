@@ -1,0 +1,13 @@
+* Vagrant
+- Symlink /etc/nginx/nginx.conf to /vagrant/nginx.conf by default. Vagrant?
+- Set up /etc/hosts correctly
+- Install nginx mainline with repos
+
+* Server
+- Make naming less confusing (nginx "server" directive vs. "server" hostname)
+
+* Client
+- Test proxy_set_header Host in client nginx.conf
+
+* SSL
+- Script to generate certificates/guide to using OpenSSL
