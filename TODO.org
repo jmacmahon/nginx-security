@@ -1,7 +1,10 @@
 * Vagrant
 - Symlink /etc/nginx/nginx.conf to /vagrant/nginx.conf by default. Vagrant?
 - Set up /etc/hosts correctly
-- Install nginx mainline with repos
+
+** Nginx
+- Mainline repos
+- Signature
 
 * Server
 - Make naming less confusing (nginx "server" directive vs. "server" hostname)
